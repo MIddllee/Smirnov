@@ -1,0 +1,27 @@
+.h1{
+  font-size: 90px;
+  text-align: center;
+}
+.red::after {
+  content: '*';
+ color: red;
+ 
+}
+
+span.inline{
+  width: 24%;
+  display: inline-block;
+
+}
+span{
+  vertical-align: top;
+  min-width: 250px;
+  display: inline-block;
+
+}
+input[type=text]{
+  width: 250px;
+
+}
+
+
